@@ -1,0 +1,51 @@
+body {
+    style: arial ; 
+    margin: 0px;
+    padding: 0px ;
+}
+
+header {
+    background-color: blue;
+    color:white;
+    size: 30px ; 
+    text-transform: uppercase;
+    padding: 30px;
+    text-align: center;
+}
+
+nav {
+    background-color: lightblue;
+    padding: 20px 0px;
+}
+
+ul {
+    margin: 0px;
+}
+
+aside {
+    background-color: orange;
+    border: black;
+    border-width: 1px;
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+}
+
+article {
+    margin: 20px auto;
+    padding: 40px;
+    width: 500px;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: black ;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+
+
+
+
